@@ -17,3 +17,8 @@ Package creation is not the responsibility of this package.
 Expectations -
 1. A repository without folders in it should error
 2. Folder names must get normalized - normalization is defined in the Spec
+
+## Installing from this repo
+
+Contact tech-team@reconzo.com to understand how to install packages from this
+repository. 
